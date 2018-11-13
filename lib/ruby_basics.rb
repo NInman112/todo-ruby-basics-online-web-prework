@@ -10,7 +10,8 @@ def argue(item)
   return item
 end
 
-def greeting
+def greeting(name, state)
+  
 
 end
 
