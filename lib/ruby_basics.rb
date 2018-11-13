@@ -12,7 +12,6 @@ end
 
 def greeting(name, state)
   
-
 end
 
 def return_a_value
